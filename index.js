@@ -18,7 +18,7 @@ if (y > x) {
 }
 
 if (x===y) {
-    document.querySelector('h1').innerHTML=('&#9996, Its a tie!');
+    document.querySelector('h1').innerHTML=('&#9996 Its a tie!');
 }
 
 var image1 = 'images/dice' + x + '.png';
